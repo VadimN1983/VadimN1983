@@ -1,0 +1,5 @@
+- 👋 Hi, I’m I am Vadim Nikitin. Belarusian.
+- 👀 I am interested in website development and business automation opportunities
+- 🌱 I am learning php / javascript. A bit of GoLang. Linux administration.
+- 💞️ I would like to cooperate where difficulties are the norm.
+- 📫 nikitin.vadim@gmail.com
